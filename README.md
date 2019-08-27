@@ -1,4 +1,4 @@
-# hyperblog :tw-1f600:
+# hyperblog
 Curso de Git y GitHub de Platzi 
 
 En este curso vemos de todo:
